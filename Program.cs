@@ -23,7 +23,7 @@ public static class Program
     public static void Main()
     {
         // ExecuteManyTimes(ArmyListList.Length, (index) =>
-        //  {
+        //  { 
         //     ArmyListList[index].GetInfo(ArmyListList[index].name,ArmyListList[index].alignmentId);
         //  });
         //  ArmyList.AHasMoreArmyListValueFromB(ArmyListList[0],ArmyListList[1]);
