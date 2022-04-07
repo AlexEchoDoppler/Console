@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ABert\\Desktop\\Projet dotnet\\Test\\Test.csproj": {}
+    "C:\\C#\\Console\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ABert\\Desktop\\Projet dotnet\\Test\\Test.csproj": {
+    "C:\\C#\\Console\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ABert\\Desktop\\Projet dotnet\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\C#\\Console\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\ABert\\Desktop\\Projet dotnet\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\ABert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ABert\\Desktop\\Projet dotnet\\Test\\obj\\",
+        "projectPath": "C:\\C#\\Console\\Test.csproj",
+        "packagesPath": "C:\\Users\\elyjo\\.nuget\\packages\\",
+        "outputPath": "C:\\C#\\Console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ABert\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\elyjo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
